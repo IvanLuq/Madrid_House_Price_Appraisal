@@ -2,7 +2,7 @@
 
 End-to-end Data Science project predicting Madrid property listing prices from public Idealista / Fotocasa data. Covers the full ML lifecycle: data cleaning, feature engineering, EDA, model selection via nested cross-validation, statistical comparison, model interpretation (PDP + SHAP), and a FastAPI appraisal webapp.
 
-This project was developed as the final assignment for the *Applied Data Science* course at Rey Juan Carlos University (Madrid).
+This project was developed as the final assignment for the *Applied Data Science* course at Reykjavík University of Iceland.
 
 ## Problem
 
